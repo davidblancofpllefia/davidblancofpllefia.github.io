@@ -1,0 +1,188 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fondo{
+    background-image: url(Imagenes/Thor.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+}
+div{
+    display: block;
+}
+body{
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+li{
+    list-style: none;
+    text-decoration: none;
+}
+.container{
+    width: 1300px;
+    margin: 0 auto 0 auto;
+    padding: 20px 50px 0 50px;
+  }
+.caja{
+    background-color: gray;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+}
+.menu ul{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.menu li{
+    color: black;
+    text-decoration: none;
+}
+.menu li a{
+   text-decoration: none;
+}
+.fila{
+    display: flex;
+}
+.menu ul{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+}
+.logo-1{
+    width: 35px;
+}
+.menu-top-1{
+    margin-bottom: 25px;
+}
+.menu-top-1 ul {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+  }
+  .menu-top-1 ul li {
+    padding: 0 10px 0 10px;
+  }
+  .menu-top-1 li a{
+    color: gray;
+  }
+
+  .menu-top-1 :hover{
+    text-decoration: underline;
+  }
+
+  .contenido{
+    background-color: #f3f2f2;
+    padding: 10px;
+  }
+  .menu-top-2{
+    width: 100%;
+}
+.menu-top-2 li{
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+ .logo-2{
+    width: 100%;
+    padding: 0 50px 0 50px;
+    color: aquamarine;
+ }
+
+  .menu-top-2 li:hover{
+    background-color: yellow;
+  }
+  .menu-top-3{
+    width: 100%;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .menu-top-3 li{
+    width: 120px;
+    margin: 0 5px 0 5px;
+    background-color: #d3d3d3;
+    padding: 10px;
+    text-align: center;
+  }
+  .menu-top-3 li a{
+    color: blue;
+  }
+  .menu-top-3 li:hover{
+      color: blue;
+  }
+  .top-peliculas{
+    background-color: white;
+    text-decoration: none;
+    color: #0076ec;
+    font-weight: bold;
+}
+.a-z{
+    color: #0076ec;
+}
+.filtro{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.fichas{
+    display: flex;
+    flex-wrap: wrap;
+}
+.ficha{
+    width: 250px;
+    height: 500px;
+    border: 1px solid #d5d5d5;
+    box-shadow: 0px 1px 20px #d5d5d5;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+.ficha h3{
+    margin: 10px 0 10px 0;
+    color: blue;
+}
+.ficha-img img{
+    width: 100%;
+    
+}
+footer{
+    margin: 0 20px 100px 20px;
+   
+}
+.menu-foot{
+    padding: 50px;
+    width: 100%;
+}
+.menu-foot li{
+    text-decoration: none;
+}
+.menu-foot-1 h3{
+    color: blue;
+    margin-bottom: 10px;
+}
+.menu-foot-2 h3{
+    color: blue;
+    margin-bottom: 10px;
+}
+.menu-foot-3 h3{
+    color: blue;
+    margin-bottom: 10px;
+}
+.menu-foot-4 h3{
+    color: blue;
+    margin-bottom: 10px;
+}
+.lista-foot{
+    list-style: none;
+    line-height: 1.7em;
+    text-decoration: none;
+}
