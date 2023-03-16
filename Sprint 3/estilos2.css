@@ -1,0 +1,23 @@
+ul{
+    text-decoration: none;
+    list-style: none;
+}
+.titulo{
+    color: orange;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    text-decoration: none;  
+    background-color: rgb(230, 221, 221);
+}
+.container{
+    width: 1300px;
+    margin: 0 auto 0 auto;
+    padding: 20px 50px 0 50px;
+}
+.lista-1{
+    list-style: none;
+    line-height: 1.7em;
+}

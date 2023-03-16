@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<rss version="2.0">
+	<channel>
+		
+		<title>Canal de noticias generales de unasrisascon.com</title>
+		<link>http://unasrisascon.com</link>
+		<description>Noticias importantes de la semana</description>
+		<item>
+			<title>Un gato gordo se convierte en la mejor atracción turística de una ciudad polaca</title>
+			<link>http://unasrisascon.com/noticias/gato.html</link>
+			<description>Con una puntuacion casi perfecta de 4,9/5,0 estrellas en miles de opiniones de Google, Gacek, un gato callejero blanco y negro con sobrepeso, es la atracción turística mejor valorada de la ciudad polaca de Szczecin.</description>
+		</item>
+		<item>
+			<title>El FC Barcelona gana 3-1 al Real Madrid</title>
+			<link>http://unasrisascon.com/noticias/fcbarcelona.html</link>
+			<description>España restringe desde este miercoles la entrada de viajeros de Brasil o Sudáfrica para cerrar el paso a nuevas variantes de coronavirus. La medida no llega a tiempo en Cataluña, donde el departamento de Salud ha comunicado el hallazgo de al menos un caso de la variante sudafricana y ha alertado de que "probablemente haya más casos".</description>
+		</item>
+		<item>
+			<title>Este es el hombre mas musculoso del mundo</title>
+			<link>http://misperros.com/noticias/el-pequines-mas-feo-del-mundo.html</link>
+			<description>Helmut Strebl es un fisicoculturista y modelo de fitness austriaco considerado el hombre más musculoso del mundo por sus musculos increiblemente bien definidos.</description>
+		</item>
+	</channel>
+</rss>

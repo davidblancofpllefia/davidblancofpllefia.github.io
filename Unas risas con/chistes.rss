@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<rss version="2.0">
+	<channel>
+	   <title>Canal de chistes unasrisas.com</title>
+		<link>http://unasrisascon.com</link>
+		<description>Chistes graciosos de la semana</description>
+		<item>
+			<title>chiste al pastor se le lleva el lanrover el rio</title>
+			<link>http://unasrisascon.com/chistes/chistealpastorselellevaellanroverelrio.mp3</link>
+		</item>
+		<item>
+			<title>Caballo tronco y seto</title>
+			<link>http://unasrisascon.com/chistes/chistecaballotroncoyseto.mp3</link>
+		</item>
+		<item>
+			<title>Llamada al astronauta</title>
+			<link>http://unasrisas.com/chistes/Llamadaalastronauta.mp3</link>
+		</item>
+	</channel>
+</rss>
